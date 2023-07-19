@@ -44,14 +44,14 @@
             "bundleId": "com.example.obs-plugintemplate"
         }
     },
-    "name": "obs-plugintemplate",
-    "version": "1.0.0",
-    "author": "Your Name Here",
-    "website": "https://example.com",
-    "email": "me@example.com",
+    "name": "obs-overcome",
+    "version": "0.0.1",
+    "author": "DeMineArchiver",
+    "website": "https://github.com/DeMineArchiver/obs-overcome",
+    "email": "minearchiver@gmail.com",
     "uuids": {
-        "macosPackage": "00000000-0000-0000-0000-000000000000",
-        "macosInstaller": "00000000-0000-0000-0000-000000000000",
-        "windowsApp": "00000000-0000-0000-0000-000000000000"
+        "macosPackage": "ef60ef8b-846b-42af-be39-f18311678603",
+        "macosInstaller": "39ef9968-5fcd-4ad7-8733-fbfe1b934ccb",
+        "windowsApp": "6cf35650-875b-494a-adbc-910f602a4744"
     }
 }

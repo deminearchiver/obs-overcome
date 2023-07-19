@@ -53,8 +53,9 @@
       "cacheVariables": {
         "QT_VERSION": "6",
         "CMAKE_SYSTEM_VERSION": "10.0.18363.657",
-        "ENABLE_FRONTEND_API": false,
-        "ENABLE_QT": false
+        "ENABLE_FRONTEND_API": true,
+        "ENABLE_QT": true,
+        "CMAKE_INSTALL_PREFIX": "C:/Program Files/obs-studio"
       }
     },
     {
